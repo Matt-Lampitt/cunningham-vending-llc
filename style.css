@@ -31,6 +31,7 @@ section {
   display: flex;
   width: 100%;
   height: 60px;
+  background-color: rgba(3, 3, 3, 0.815);
 }
 
 .navbar ul {
@@ -42,7 +43,7 @@ section {
 
 .navbar ul li {
   margin: 0 1rem;
-  padding: 1rem;
+  padding: 0rem;
 }
 
 .nav-link:hover {
