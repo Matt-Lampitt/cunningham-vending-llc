@@ -62,13 +62,20 @@ color: white;
 font-size: 50px;
 }
 
-.main-welcome p {
-  color: white;
-  font-size: 20px;
+.main-about {
+  width: 100%;
 }
 
-.carousel-inner img {
-  width: 640px;
-  height: 480px;
+.main-about button,a {
+  margin-top: 20px;
 }
 
+section#about-main {
+  width: 100%;
+  background-image: url(/images/victoriano-izquierdo-JG35CpZLfVs-unsplash.jpg);
+  background-size: cover;
+}
+
+.main-services {
+  width: 100%;
+}
