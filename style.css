@@ -3,5 +3,16 @@
 body {
   margin: 0 auto;
   font-family: 'Black Ops One', regular;
-  background: url('/images/justin-sanchez-PoAC9dCnofk-unsplash.jpg') no-repeat center center fixed;
+}
+
+#home-section {
+  background: url('/images/victoriano-izquierdo-JG35CpZLfVs-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+#home-section .home-inner {
+  padding-top: 200px;
 }
